@@ -42,7 +42,7 @@ export default defineAppConfig({
     },
     toc: {
       enable: true,
-      title: 'On This Page',
+      title: '章节概览',
       links: [{
         title: 'Star on GitHub',
         icon: 'lucide:star',
